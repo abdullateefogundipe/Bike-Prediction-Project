@@ -1,4 +1,4 @@
-# bike-prediction-project
+# Bike-Prediction-Project
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
 #### OGUNDPE ABDULLATEEF
 
